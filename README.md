@@ -396,11 +396,11 @@ So let's take a look at the SSH main in detail:
 
 #### INFO: Raspiblitz Status Screen
 
-This is the screen that gets displayed on the LCD/display. It's useful to call in a remote situation from SSH if you don't have your RaspiBlitz next to you, or if you want to copy+paste your nodeID or make a screenshot.
+This is the screen that gets displayed on the LCD/display. It's useful to call in a remote situation from SSH if you don't have your RaspiBlitz next to you, or if you want to copy+paste your nodeID or take a screenshot.
 
 ![SSH9dz](pictures/ssh9z-ready.png)
 
-*It's not automatically updating. It's just for one-time info.*
+*It is updated every few seconds. Please press x to exit.*
 
 * [Why is my bitcoin IP on the display red?](FAQ.md#why-is-my-bitcoin-ip-on-the-display-red)
 * [Why is my node address on the display red?](FAQ.md#why-is-my-node-address-on-the-display-red)
